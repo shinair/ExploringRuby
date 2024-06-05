@@ -1,3 +1,13 @@
+# Test Cases:
+# - The test suite verifies that each dinosaur's health is calculated correctly based on its diet
+#   and category, ensuring strict adherence to dietary restrictions.
+# - It checks that comments reflect the current health status of each dinosaur, showing correct condition ('Alive' or 'Dead').
+# - The program's ability to summarize the dinosaur data by categories is thoroughly tested.
+# - Program's ability to handle empty values and throw exceptions is also thoroughly tested. 
+
+
+# Test cases begin here
+
 require './dino_manager'
 require 'rspec'
 
